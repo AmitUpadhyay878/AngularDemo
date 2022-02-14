@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "keval",
+      "class": "4th",
+      "email": "jay@jay.com",
+      "mobile": "789456123"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
